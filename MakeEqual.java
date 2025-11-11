@@ -2,7 +2,7 @@ import java.util.*;
 
 public class MakeEqual{
     public static void main(String[] args){
-        int[] arr = {3,3,3};
+        int[] arr = {1,3,5};
 
         int result = moves(arr);
 
